@@ -1,0 +1,10 @@
+{
+  "_ayuda": "Ajusta los nombres de columna a los del archivo real. 'constantes' se usa cuando el dato no viene en una columna.",
+  "url_procedencia": "https://www.spaceappschallenge.org/",
+  "columnas": {
+    "producto": "Cultivo", "geo_id": "Codigo_Pais", "geo_nombre": "Pais", "periodo_inicio": "Fecha_Inicio",
+    "periodo_fin": "Fecha_Fin", "valor": "Valor", "unidad": "Unidad", "indicador": "Indicador"
+  },
+  "constantes": {"nivel_geografico": "pais", "periodicidad": "mensual", "estado_dato": "observado", "moneda": ""},
+  "cultivos": {"Maize": "maiz", "Coffee": "cafe"}
+}

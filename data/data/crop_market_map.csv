@@ -1,0 +1,52 @@
+crop_id,nombre_es,faostat_item_patron,hs_codigo,hs_descripcion,wb_pinksheet_serie,usda_psd_commodity,sipsa_terminos,eva_terminos,verificado,nota
+maiz,Maíz,Maize (corn)|Maize,1005,Maíz,Maize,Corn,maíz,MAIZ,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+soya,Soya,Soya beans|Soybeans,1201,Habas de soya,Soybeans,"Oilseed, Soybean|Soybeans",soya,SOYA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+frijol,Frijol arbustivo,"Beans, dry",0713,Hortalizas de vaina secas (frijol),,,fríjol|frijol,FRIJOL,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+caupi,Frijol caupí,"Cow peas, dry|Cowpeas, dry",071320,Legumbres secas,,,fríjol|frijol,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+sorgo,Sorgo,Sorghum,1007,Sorgo,Sorghum,Sorghum,sorgo,SORGO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+arroz,Arroz,"Rice|Rice, paddy",1006,Arroz,"Rice, Thai 5%","Rice, Milled",arroz,ARROZ,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+mani,Maní,"Groundnuts, excluding shelled|Groundnuts, with shell|Groundnuts",1202,Maní (cacahuate),Groundnuts,"Oilseed, Peanut",maní|mani,MANI,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+ajonjoli,Ajonjolí,Sesame seed,120740,Semilla de sésamo,,,ajonjolí|ajonjoli,AJONJOLI,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+yuca,Yuca,"Cassava, fresh|Cassava",071410,Raíces de mandioca (yuca),,,yuca,YUCA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+cana,Caña de azúcar,Sugar cane,121293,Caña de azúcar,"Sugar, World","Sugar, Centrifugal",caña|panela,CAÑA AZUCARERA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+crotalaria,Crotalaria,,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+mucuna,Mucuna,,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+canavalia,Canavalia,,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+guandul,Guandul,"Pigeon peas, dry",071390,Legumbres secas,,,,GUANDUL,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+brachiaria,Brachiaria (pasto),,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+trigo,Trigo,Wheat,1001,Trigo,"Wheat, US HRW",Wheat,trigo,TRIGO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+cebada,Cebada,Barley,1003,Cebada,Barley,Barley,cebada,CEBADA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+avena,Avena,Oats,1004,Avena,,Oats,avena,AVENA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+centeno,Centeno,Rye,1002,Centeno,,Rye,,CENTENO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+colza,Colza (canola),Rape or colza seed|Rapeseed,1205,Semilla de colza,,"Oilseed, Rapeseed",,COLZA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+papa,Papa,Potatoes,0701,Papas,,,papa,PAPA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+remolacha,Remolacha azucarera,Sugar beet,121291,Remolacha azucarera,"Sugar, World","Sugar, Centrifugal",,REMOLACHA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+guisante,Guisante (arveja),"Peas, dry",071310,Arvejas secas,,,arveja,ARVEJA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+haba,Haba,"Broad beans and horse beans, dry|Broad beans",071350,Habas secas,,,haba,HABA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+lenteja,Lenteja,"Lentils, dry|Lentils",071340,Lentejas secas,,,lenteja,LENTEJA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+garbanzo,Garbanzo,"Chick peas, dry|Chickpeas",071320,Garbanzos secos,,,garbanzo,GARBANZO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+alfalfa,Alfalfa,Alfalfa for forage|Alfalfa,,,,,,ALFALFA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+trebol_rojo,Trébol rojo,Clover for forage,,,,,,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+veza,Veza vellosa,Vetches,,,,,,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+girasol,Girasol,Sunflower seed,1206,Semilla de girasol,,"Oilseed, Sunflowerseed",,GIRASOL,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+quinua,Quinua,Quinoa,100850,Quinua,,,quinua,QUINUA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+algodon,Algodón,"Seed cotton, unginned|Seed cotton",5201,Algodón sin cardar ni peinar,"Cotton, A Index",Cotton,,ALGODON,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+mijo_perla,Mijo perla,Millet,100820,Mijo,,Millet,,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+batata,Camote (batata),Sweet potatoes,071420,Batatas (camotes),,,batata|camote,BATATA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+rabano_forrajero,Rábano forrajero,,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+trigo_sarraceno,Trigo sarraceno,Buckwheat,100810,Alforfón,,,,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+lupino_blanco,Lupino blanco,Lupins,,,,,,,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+ryegrass,Ryegrass anual,,,,,,,,no,Sin mercado formal agregado en las fuentes previstas (abono verde/forraje): mostrar 'sin datos'
+arandano,Arándano,Blueberries,081040,Arándanos,,,arándano|arandano,ARANDANO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+fresa,Fresa,Strawberries,081010,Fresas,,,fresa,FRESA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+mora,Mora,Other berries|Berries nes,081020,"Frambuesas, zarzamoras y moras",,,mora,MORA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+frambuesa,Frambuesa,Raspberries,081020,"Frambuesas, zarzamoras y moras",,,frambuesa,FRAMBUESA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+palma_aceite,Palma de aceite,Oil palm fruit,1511,Aceite de palma (producto derivado; el fruto no se comercia),Palm oil,"Oil, Palm",,PALMA DE ACEITE,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+tomate,Tomate,Tomatoes,0702,Tomates,,,tomate,TOMATE,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+banano,Banano,Bananas,080390,Bananos frescos o secos,"Banana, Europe|Banana, US",Bananas,banano,BANANO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+cebolla,Cebolla,"Onions and shallots, dry (excluding dehydrated)|Onions, dry|Onions and shallots, dry",070310,Cebollas y chalotes,,,cebolla,CEBOLLA DE BULBO,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+manzana,Manzana,Apples,080810,Manzanas,,"Apples, Fresh|Fresh Apples",manzana,MANZANA,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+cafe,Café,"Coffee, green",0901,Café,"Coffee, Arabica|Coffee, Robusta","Coffee, Green",café|cafe,CAFE,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+aguacate,Aguacate,Avocados,080440,Aguacates (paltas),,,aguacate,AGUACATE,no,Nombres y códigos tomados del conocimiento del equipo; el ETL debe validar coincidencias y registrar las que no encuentre
+rosa,Rosa (flor de corte),,060311,"Rosas frescas, cortadas",,,,ROSA,no,No está en FAOSTAT ni en EVA: producción sin datos; solo comercio internacional (HS 0603) cuando se cargue UN Comtrade
+clavel,Clavel (flor de corte),,060312,"Claveles frescos, cortados",,,,CLAVEL,no,No está en FAOSTAT ni en EVA: producción sin datos; solo comercio internacional (HS 0603) cuando se cargue UN Comtrade
